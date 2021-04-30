@@ -1,0 +1,4 @@
+com\osb\proyecto\ProyectoController.class
+com\osb\socketconf\ServerWebSocketConfig.class
+com\osb\socketconf\ServerWebSocketHandler.class
+com\osb\socket\endpoint\NotificacionSocket.class
